@@ -1,0 +1,661 @@
+Run,Model,Metric,Value
+1,Pairwise neighborhoods,Event F1,0.823529411764706
+1,Pairwise neighborhoods,Event AUROC,0.925108968432175
+1,Pairwise neighborhoods,Impacted-node localization F1,0.875045186167008
+1,Pairwise neighborhoods,Dependency-asset localization F1,0.713707345286293
+1,Pairwise neighborhoods,Early cascade F1,0.693693693693694
+1,Pairwise neighborhoods,Mid-stage cascade F1,0.825588796944621
+1,Pairwise neighborhoods,Late cascade F1,0.936539746158985
+1,Pairwise neighborhoods,Pump-involving cascade F1,0.868276154171961
+1,Pairwise neighborhoods,EV-only cascade F1,0.914473684210526
+1,Pairwise neighborhoods,Multi-group cascade F1,0.876390756816237
+1,Pairwise neighborhoods,Localization AP,0.922131952764629
+1,Shuffled incidence,Event F1,0.897196261682243
+1,Shuffled incidence,Event AUROC,0.919957733456611
+1,Shuffled incidence,Impacted-node localization F1,0.880825490418415
+1,Shuffled incidence,Dependency-asset localization F1,0.615161757605022
+1,Shuffled incidence,Early cascade F1,0.656509695290859
+1,Shuffled incidence,Mid-stage cascade F1,0.854076008123006
+1,Shuffled incidence,Late cascade F1,0.935483870967742
+1,Shuffled incidence,Pump-involving cascade F1,0.899151743638077
+1,Shuffled incidence,EV-only cascade F1,0.783045977011494
+1,Shuffled incidence,Multi-group cascade F1,0.886962552011096
+1,Shuffled incidence,Localization AP,0.907614723572207
+1,Higher-order incidence,Event F1,0.995555555555556
+1,Higher-order incidence,Event AUROC,0.996962092193898
+1,Higher-order incidence,Impacted-node localization F1,0.939331026528258
+1,Higher-order incidence,Dependency-asset localization F1,0.864559819413092
+1,Higher-order incidence,Early cascade F1,0.867279894875164
+1,Higher-order incidence,Mid-stage cascade F1,0.908814589665654
+1,Higher-order incidence,Late cascade F1,0.972937865338818
+1,Higher-order incidence,Pump-involving cascade F1,0.937116973088196
+1,Higher-order incidence,EV-only cascade F1,0.95360824742268
+1,Higher-order incidence,Multi-group cascade F1,0.939761849171142
+1,Higher-order incidence,Localization AP,0.960963893129542
+2,Pairwise neighborhoods,Event F1,0.957983193277311
+2,Pairwise neighborhoods,Event AUROC,0.9474366359447
+2,Pairwise neighborhoods,Impacted-node localization F1,0.874157551651751
+2,Pairwise neighborhoods,Dependency-asset localization F1,0.672190574831693
+2,Pairwise neighborhoods,Early cascade F1,0.763025210084034
+2,Pairwise neighborhoods,Mid-stage cascade F1,0.826127382612738
+2,Pairwise neighborhoods,Late cascade F1,0.939817043813192
+2,Pairwise neighborhoods,Pump-involving cascade F1,0.870106761565836
+2,Pairwise neighborhoods,EV-only cascade F1,0.901098901098901
+2,Pairwise neighborhoods,Multi-group cascade F1,0.874693422519509
+2,Pairwise neighborhoods,Localization AP,0.921533096018379
+2,Shuffled incidence,Event F1,0.919354838709677
+2,Shuffled incidence,Event AUROC,0.92698732718894
+2,Shuffled incidence,Impacted-node localization F1,0.896775589699199
+2,Shuffled incidence,Dependency-asset localization F1,0.613363792118789
+2,Shuffled incidence,Early cascade F1,0.666666666666667
+2,Shuffled incidence,Mid-stage cascade F1,0.868000899482797
+2,Shuffled incidence,Late cascade F1,0.957487009919698
+2,Shuffled incidence,Pump-involving cascade F1,0.896389130165033
+2,Shuffled incidence,EV-only cascade F1,0.899408284023669
+2,Shuffled incidence,Multi-group cascade F1,0.89808847624249
+2,Shuffled incidence,Localization AP,0.916097370263467
+2,Higher-order incidence,Event F1,0.991869918699187
+2,Higher-order incidence,Event AUROC,0.995823732718894
+2,Higher-order incidence,Impacted-node localization F1,0.920873837148531
+2,Higher-order incidence,Dependency-asset localization F1,0.684114424832623
+2,Higher-order incidence,Early cascade F1,0.841654778887304
+2,Higher-order incidence,Mid-stage cascade F1,0.890333766796706
+2,Higher-order incidence,Late cascade F1,0.967074317968015
+2,Higher-order incidence,Pump-involving cascade F1,0.922710491842325
+2,Higher-order incidence,EV-only cascade F1,0.907692307692308
+2,Higher-order incidence,Multi-group cascade F1,0.921973850695909
+2,Higher-order incidence,Localization AP,0.948528051325961
+3,Pairwise neighborhoods,Event F1,0.970954356846473
+3,Pairwise neighborhoods,Event AUROC,0.95866935483871
+3,Pairwise neighborhoods,Impacted-node localization F1,0.893363939899833
+3,Pairwise neighborhoods,Dependency-asset localization F1,0.666666666666667
+3,Pairwise neighborhoods,Early cascade F1,0.78119349005425
+3,Pairwise neighborhoods,Mid-stage cascade F1,0.844027125717267
+3,Pairwise neighborhoods,Late cascade F1,0.941697132961324
+3,Pairwise neighborhoods,Pump-involving cascade F1,0.90425658757601
+3,Pairwise neighborhoods,EV-only cascade F1,0.817042606516291
+3,Pairwise neighborhoods,Multi-group cascade F1,0.896924708377518
+3,Pairwise neighborhoods,Localization AP,0.937407438909348
+3,Shuffled incidence,Event F1,0.94017094017094
+3,Shuffled incidence,Event AUROC,0.93721198156682
+3,Shuffled incidence,Impacted-node localization F1,0.867464862051015
+3,Shuffled incidence,Dependency-asset localization F1,0.567510548523207
+3,Shuffled incidence,Early cascade F1,0.554027504911591
+3,Shuffled incidence,Mid-stage cascade F1,0.821212916776057
+3,Shuffled incidence,Late cascade F1,0.930962738793267
+3,Shuffled incidence,Pump-involving cascade F1,0.887225307896643
+3,Shuffled incidence,EV-only cascade F1,0.743764172335601
+3,Shuffled incidence,Multi-group cascade F1,0.872534464475079
+3,Shuffled incidence,Localization AP,0.910989379625376
+3,Higher-order incidence,Event F1,0.987951807228916
+3,Higher-order incidence,Event AUROC,0.994527649769585
+3,Higher-order incidence,Impacted-node localization F1,0.934127979924718
+3,Higher-order incidence,Dependency-asset localization F1,0.808104886769964
+3,Higher-order incidence,Early cascade F1,0.89678510998308
+3,Higher-order incidence,Mid-stage cascade F1,0.896716101694915
+3,Higher-order incidence,Late cascade F1,0.965557052145468
+3,Higher-order incidence,Pump-involving cascade F1,0.940160832544939
+3,Higher-order incidence,EV-only cascade F1,0.888086642599278
+3,Higher-order incidence,Multi-group cascade F1,0.936472584579489
+3,Higher-order incidence,Localization AP,0.96187365269629
+4,Pairwise neighborhoods,Event F1,0.951541850220264
+4,Pairwise neighborhoods,Event AUROC,0.950888617555284
+4,Pairwise neighborhoods,Impacted-node localization F1,0.922536859349403
+4,Pairwise neighborhoods,Dependency-asset localization F1,0.700713893465129
+4,Pairwise neighborhoods,Early cascade F1,0.779610194902549
+4,Pairwise neighborhoods,Mid-stage cascade F1,0.894020879468522
+4,Pairwise neighborhoods,Late cascade F1,0.961848240779991
+4,Pairwise neighborhoods,Pump-involving cascade F1,0.918639455782313
+4,Pairwise neighborhoods,EV-only cascade F1,0.946488294314381
+4,Pairwise neighborhoods,Multi-group cascade F1,0.922985922157814
+4,Pairwise neighborhoods,Localization AP,0.946510148993485
+4,Shuffled incidence,Event F1,0.951541850220264
+4,Shuffled incidence,Event AUROC,0.925654592321259
+4,Shuffled incidence,Impacted-node localization F1,0.908878504672897
+4,Shuffled incidence,Dependency-asset localization F1,0.697674418604651
+4,Shuffled incidence,Early cascade F1,0.623529411764706
+4,Shuffled incidence,Mid-stage cascade F1,0.89344
+4,Shuffled incidence,Late cascade F1,0.959831756046267
+4,Shuffled incidence,Pump-involving cascade F1,0.911482597972047
+4,Shuffled incidence,EV-only cascade F1,0.893819334389857
+4,Shuffled incidence,Multi-group cascade F1,0.910359508041627
+4,Shuffled incidence,Localization AP,0.927097706648248
+4,Higher-order incidence,Event F1,0.987341772151899
+4,Higher-order incidence,Event AUROC,1
+4,Higher-order incidence,Impacted-node localization F1,0.949464368886819
+4,Higher-order incidence,Dependency-asset localization F1,0.835244417622209
+4,Higher-order incidence,Early cascade F1,0.928848641655886
+4,Higher-order incidence,Mid-stage cascade F1,0.905710491367862
+4,Higher-order incidence,Late cascade F1,0.980220695398709
+4,Higher-order incidence,Pump-involving cascade F1,0.952779276848354
+4,Higher-order incidence,EV-only cascade F1,0.928571428571429
+4,Higher-order incidence,Multi-group cascade F1,0.950476414539466
+4,Higher-order incidence,Localization AP,0.975366351335569
+5,Pairwise neighborhoods,Event F1,0.959641255605381
+5,Pairwise neighborhoods,Event AUROC,0.946255387931034
+5,Pairwise neighborhoods,Impacted-node localization F1,0.891961085509473
+5,Pairwise neighborhoods,Dependency-asset localization F1,0.721202003338898
+5,Pairwise neighborhoods,Early cascade F1,0.681957186544342
+5,Pairwise neighborhoods,Mid-stage cascade F1,0.868657581907799
+5,Pairwise neighborhoods,Late cascade F1,0.95066055540577
+5,Pairwise neighborhoods,Pump-involving cascade F1,0.890314878376362
+5,Pairwise neighborhoods,EV-only cascade F1,0.901890189018902
+5,Pairwise neighborhoods,Multi-group cascade F1,0.893672199170124
+5,Pairwise neighborhoods,Localization AP,0.933497618311679
+5,Shuffled incidence,Event F1,0.857142857142857
+5,Shuffled incidence,Event AUROC,0.902209051724138
+5,Shuffled incidence,Impacted-node localization F1,0.86844891476972
+5,Shuffled incidence,Dependency-asset localization F1,0.574382538770821
+5,Shuffled incidence,Early cascade F1,0.548440065681445
+5,Shuffled incidence,Mid-stage cascade F1,0.847772277227723
+5,Shuffled incidence,Late cascade F1,0.938896366083445
+5,Shuffled incidence,Pump-involving cascade F1,0.870537100279416
+5,Shuffled incidence,EV-only cascade F1,0.856373429084381
+5,Shuffled incidence,Multi-group cascade F1,0.870253589158728
+5,Shuffled incidence,Localization AP,0.903788379501534
+5,Higher-order incidence,Event F1,0.959641255605381
+5,Higher-order incidence,Event AUROC,0.985721982758621
+5,Higher-order incidence,Impacted-node localization F1,0.904313336638572
+5,Higher-order incidence,Dependency-asset localization F1,0.849501835343471
+5,Higher-order incidence,Early cascade F1,0.87420584498094
+5,Higher-order incidence,Mid-stage cascade F1,0.86428982173663
+5,Higher-order incidence,Late cascade F1,0.947146989219038
+5,Higher-order incidence,Pump-involving cascade F1,0.922651128914785
+5,Higher-order incidence,EV-only cascade F1,0.799667497921862
+5,Higher-order incidence,Multi-group cascade F1,0.909571788413098
+5,Higher-order incidence,Localization AP,0.938483767166222
+6,Pairwise neighborhoods,Event F1,0.977973568281938
+6,Pairwise neighborhoods,Event AUROC,0.980196703880914
+6,Pairwise neighborhoods,Impacted-node localization F1,0.909297567629007
+6,Pairwise neighborhoods,Dependency-asset localization F1,0.810178117048346
+6,Pairwise neighborhoods,Early cascade F1,0.818181818181818
+6,Pairwise neighborhoods,Mid-stage cascade F1,0.88530990727184
+6,Pairwise neighborhoods,Late cascade F1,0.947110675808031
+6,Pairwise neighborhoods,Pump-involving cascade F1,0.916446324695928
+6,Pairwise neighborhoods,EV-only cascade F1,0.86547811993517
+6,Pairwise neighborhoods,Multi-group cascade F1,0.911208487084871
+6,Pairwise neighborhoods,Localization AP,0.940047009373243
+6,Shuffled incidence,Event F1,0.969162995594714
+6,Shuffled incidence,Event AUROC,0.980595427963849
+6,Shuffled incidence,Impacted-node localization F1,0.885432042693312
+6,Shuffled incidence,Dependency-asset localization F1,0.61122244488978
+6,Shuffled incidence,Early cascade F1,0.673575129533679
+6,Shuffled incidence,Mid-stage cascade F1,0.866045142296369
+6,Shuffled incidence,Late cascade F1,0.934007707129094
+6,Shuffled incidence,Pump-involving cascade F1,0.908404154863078
+6,Shuffled incidence,EV-only cascade F1,0.763271162123386
+6,Shuffled incidence,Multi-group cascade F1,0.888837585132171
+6,Shuffled incidence,Localization AP,0.923169016665412
+6,Higher-order incidence,Event F1,0.995633187772926
+6,Higher-order incidence,Event AUROC,1
+6,Higher-order incidence,Impacted-node localization F1,0.910235177210997
+6,Higher-order incidence,Dependency-asset localization F1,0.82375296912114
+6,Higher-order incidence,Early cascade F1,0.847317744154058
+6,Higher-order incidence,Mid-stage cascade F1,0.88968824940048
+6,Higher-order incidence,Late cascade F1,0.941826923076923
+6,Higher-order incidence,Pump-involving cascade F1,0.933852140077821
+6,Higher-order incidence,EV-only cascade F1,0.775055679287305
+6,Higher-order incidence,Multi-group cascade F1,0.9159739384408
+6,Higher-order incidence,Localization AP,0.953642877174876
+7,Pairwise neighborhoods,Event F1,0.953974895397489
+7,Pairwise neighborhoods,Event AUROC,0.954214805305948
+7,Pairwise neighborhoods,Impacted-node localization F1,0.908779330345373
+7,Pairwise neighborhoods,Dependency-asset localization F1,0.739487179487179
+7,Pairwise neighborhoods,Early cascade F1,0.807212205270458
+7,Pairwise neighborhoods,Mid-stage cascade F1,0.885931558935361
+7,Pairwise neighborhoods,Late cascade F1,0.947964410892424
+7,Pairwise neighborhoods,Pump-involving cascade F1,0.904364884747425
+7,Pairwise neighborhoods,EV-only cascade F1,0.92716133424098
+7,Pairwise neighborhoods,Multi-group cascade F1,0.910020174848689
+7,Pairwise neighborhoods,Localization AP,0.925133951319945
+7,Shuffled incidence,Event F1,0.911504424778761
+7,Shuffled incidence,Event AUROC,0.927685066324347
+7,Shuffled incidence,Impacted-node localization F1,0.902682798527091
+7,Shuffled incidence,Dependency-asset localization F1,0.656907593778591
+7,Shuffled incidence,Early cascade F1,0.702781844802343
+7,Shuffled incidence,Mid-stage cascade F1,0.883735705209657
+7,Shuffled incidence,Late cascade F1,0.954677975086138
+7,Shuffled incidence,Pump-involving cascade F1,0.905004101722724
+7,Shuffled incidence,EV-only cascade F1,0.893306825712392
+7,Shuffled incidence,Multi-group cascade F1,0.904403866809882
+7,Shuffled incidence,Localization AP,0.917824029251021
+7,Higher-order incidence,Event F1,0.987755102040816
+7,Higher-order incidence,Event AUROC,0.994152046783626
+7,Higher-order incidence,Impacted-node localization F1,0.94264209706722
+7,Higher-order incidence,Dependency-asset localization F1,0.884094330155545
+7,Higher-order incidence,Early cascade F1,0.88715953307393
+7,Higher-order incidence,Mid-stage cascade F1,0.913831478537361
+7,Higher-order incidence,Late cascade F1,0.977836411609499
+7,Higher-order incidence,Pump-involving cascade F1,0.942190993292878
+7,Higher-order incidence,EV-only cascade F1,0.944598337950138
+7,Higher-order incidence,Multi-group cascade F1,0.943166798836902
+7,Higher-order incidence,Localization AP,0.95456467948941
+8,Pairwise neighborhoods,Event F1,0.940239043824701
+8,Pairwise neighborhoods,Event AUROC,0.94140625
+8,Pairwise neighborhoods,Impacted-node localization F1,0.891741635499848
+8,Pairwise neighborhoods,Dependency-asset localization F1,0.767261088248743
+8,Pairwise neighborhoods,Early cascade F1,0.733441033925686
+8,Pairwise neighborhoods,Mid-stage cascade F1,0.862962143015276
+8,Pairwise neighborhoods,Late cascade F1,0.93966785789363
+8,Pairwise neighborhoods,Pump-involving cascade F1,0.899338374291115
+8,Pairwise neighborhoods,EV-only cascade F1,0.846745976207138
+8,Pairwise neighborhoods,Multi-group cascade F1,0.894726041452904
+8,Pairwise neighborhoods,Localization AP,0.937620555006231
+8,Shuffled incidence,Event F1,0.934426229508197
+8,Shuffled incidence,Event AUROC,0.92578125
+8,Shuffled incidence,Impacted-node localization F1,0.889023040547339
+8,Shuffled incidence,Dependency-asset localization F1,0.647026732133115
+8,Shuffled incidence,Early cascade F1,0.652757078986587
+8,Shuffled incidence,Mid-stage cascade F1,0.868474120546717
+8,Shuffled incidence,Late cascade F1,0.941103017689906
+8,Shuffled incidence,Pump-involving cascade F1,0.906116642958748
+8,Shuffled incidence,EV-only cascade F1,0.793080505655356
+8,Shuffled incidence,Multi-group cascade F1,0.894144144144144
+8,Shuffled incidence,Localization AP,0.924100840636459
+8,Higher-order incidence,Event F1,1
+8,Higher-order incidence,Event AUROC,1
+8,Higher-order incidence,Impacted-node localization F1,0.943342488048011
+8,Higher-order incidence,Dependency-asset localization F1,0.805586592178771
+8,Higher-order incidence,Early cascade F1,0.935483870967742
+8,Higher-order incidence,Mid-stage cascade F1,0.905860636825104
+8,Higher-order incidence,Late cascade F1,0.978750262991795
+8,Higher-order incidence,Pump-involving cascade F1,0.946570228651423
+8,Higher-order incidence,EV-only cascade F1,0.921366163621922
+8,Higher-order incidence,Multi-group cascade F1,0.94454161950818
+8,Higher-order incidence,Localization AP,0.96261072598839
+9,Pairwise neighborhoods,Event F1,0.957627118644068
+9,Pairwise neighborhoods,Event AUROC,0.951243640474845
+9,Pairwise neighborhoods,Impacted-node localization F1,0.917898918561024
+9,Pairwise neighborhoods,Dependency-asset localization F1,0.722326454033771
+9,Pairwise neighborhoods,Early cascade F1,0.749185667752443
+9,Pairwise neighborhoods,Mid-stage cascade F1,0.897472579876013
+9,Pairwise neighborhoods,Late cascade F1,0.962388340385519
+9,Pairwise neighborhoods,Pump-involving cascade F1,0.915987780040733
+9,Pairwise neighborhoods,EV-only cascade F1,0.930348258706468
+9,Pairwise neighborhoods,Multi-group cascade F1,0.918233396373345
+9,Pairwise neighborhoods,Localization AP,0.951270676087027
+9,Shuffled incidence,Event F1,0.953586497890295
+9,Shuffled incidence,Event AUROC,0.936546071226682
+9,Shuffled incidence,Impacted-node localization F1,0.88690543441419
+9,Shuffled incidence,Dependency-asset localization F1,0.631820265933058
+9,Shuffled incidence,Early cascade F1,0.590111642743222
+9,Shuffled incidence,Mid-stage cascade F1,0.859390862944163
+9,Shuffled incidence,Late cascade F1,0.955648926237162
+9,Shuffled incidence,Pump-involving cascade F1,0.890063424947146
+9,Shuffled incidence,EV-only cascade F1,0.868277474668745
+9,Shuffled incidence,Multi-group cascade F1,0.888407120036513
+9,Shuffled incidence,Localization AP,0.911691625542225
+9,Higher-order incidence,Event F1,0.957983193277311
+9,Higher-order incidence,Event AUROC,0.986150367439231
+9,Higher-order incidence,Impacted-node localization F1,0.922556072788828
+9,Higher-order incidence,Dependency-asset localization F1,0.94178892569806
+9,Higher-order incidence,Early cascade F1,0.881806108897742
+9,Higher-order incidence,Mid-stage cascade F1,0.888579387186629
+9,Higher-order incidence,Late cascade F1,0.962878615349579
+9,Higher-order incidence,Pump-involving cascade F1,0.942222222222222
+9,Higher-order incidence,EV-only cascade F1,0.804733727810651
+9,Higher-order incidence,Multi-group cascade F1,0.924802392651143
+9,Higher-order incidence,Localization AP,0.959179271412088
+10,Pairwise neighborhoods,Event F1,0.976377952755906
+10,Pairwise neighborhoods,Event AUROC,0.973552211582307
+10,Pairwise neighborhoods,Impacted-node localization F1,0.911904270682897
+10,Pairwise neighborhoods,Dependency-asset localization F1,0.760479041916168
+10,Pairwise neighborhoods,Early cascade F1,0.887700534759358
+10,Pairwise neighborhoods,Mid-stage cascade F1,0.88005330964016
+10,Pairwise neighborhoods,Late cascade F1,0.948244824482448
+10,Pairwise neighborhoods,Pump-involving cascade F1,0.915399705738107
+10,Pairwise neighborhoods,EV-only cascade F1,0.893368010403121
+10,Pairwise neighborhoods,Multi-group cascade F1,0.914453043296381
+10,Pairwise neighborhoods,Localization AP,0.946320585589054
+10,Shuffled incidence,Event F1,0.861111111111111
+10,Shuffled incidence,Event AUROC,0.946496428028576
+10,Shuffled incidence,Impacted-node localization F1,0.897963490556083
+10,Shuffled incidence,Dependency-asset localization F1,0.635711270578303
+10,Shuffled incidence,Early cascade F1,0.758321273516643
+10,Shuffled incidence,Mid-stage cascade F1,0.870760769935839
+10,Shuffled incidence,Late cascade F1,0.946630483943917
+10,Shuffled incidence,Pump-involving cascade F1,0.900778698819392
+10,Shuffled incidence,EV-only cascade F1,0.883168316831683
+10,Shuffled incidence,Multi-group cascade F1,0.900374531835206
+10,Shuffled incidence,Localization AP,0.921010614043255
+10,Higher-order incidence,Event F1,0.996108949416342
+10,Higher-order incidence,Event AUROC,0.99437604499164
+10,Higher-order incidence,Impacted-node localization F1,0.912627418348242
+10,Higher-order incidence,Dependency-asset localization F1,0.81729055258467
+10,Higher-order incidence,Early cascade F1,0.857487922705314
+10,Higher-order incidence,Mid-stage cascade F1,0.87964887964888
+10,Higher-order incidence,Late cascade F1,0.954902400717972
+10,Higher-order incidence,Pump-involving cascade F1,0.917772541237753
+10,Higher-order incidence,EV-only cascade F1,0.885880077369439
+10,Higher-order incidence,Multi-group cascade F1,0.915400843881856
+10,Higher-order incidence,Localization AP,0.946875576552113
+11,Pairwise neighborhoods,Event F1,0.973913043478261
+11,Pairwise neighborhoods,Event AUROC,0.958993985784582
+11,Pairwise neighborhoods,Impacted-node localization F1,0.894298387969274
+11,Pairwise neighborhoods,Dependency-asset localization F1,0.657429526994744
+11,Pairwise neighborhoods,Early cascade F1,0.78328173374613
+11,Pairwise neighborhoods,Mid-stage cascade F1,0.870281124497992
+11,Pairwise neighborhoods,Late cascade F1,0.947193807022394
+11,Pairwise neighborhoods,Pump-involving cascade F1,0.891828984441994
+11,Pairwise neighborhoods,EV-only cascade F1,0.912962962962963
+11,Pairwise neighborhoods,Multi-group cascade F1,0.895094174332019
+11,Pairwise neighborhoods,Localization AP,0.924933423587542
+11,Shuffled incidence,Event F1,0.96969696969697
+11,Shuffled incidence,Event AUROC,0.9558501913614
+11,Shuffled incidence,Impacted-node localization F1,0.899737876802097
+11,Shuffled incidence,Dependency-asset localization F1,0.667313288069835
+11,Shuffled incidence,Early cascade F1,0.7264
+11,Shuffled incidence,Mid-stage cascade F1,0.877718506360279
+11,Shuffled incidence,Late cascade F1,0.958709324582992
+11,Shuffled incidence,Pump-involving cascade F1,0.898712233779099
+11,Shuffled incidence,EV-only cascade F1,0.907407407407407
+11,Shuffled incidence,Multi-group cascade F1,0.900906879009069
+11,Shuffled incidence,Localization AP,0.925337847100456
+11,Higher-order incidence,Event F1,0.9957805907173
+11,Higher-order incidence,Event AUROC,1
+11,Higher-order incidence,Impacted-node localization F1,0.921066723787084
+11,Higher-order incidence,Dependency-asset localization F1,0.830486202365309
+11,Higher-order incidence,Early cascade F1,0.88
+11,Higher-order incidence,Mid-stage cascade F1,0.894470326108973
+11,Higher-order incidence,Late cascade F1,0.964897959183673
+11,Higher-order incidence,Pump-involving cascade F1,0.923188756966319
+11,Higher-order incidence,EV-only cascade F1,0.904893813481071
+11,Higher-order incidence,Multi-group cascade F1,0.921793760831889
+11,Higher-order incidence,Localization AP,0.946607264622744
+12,Pairwise neighborhoods,Event F1,0.981818181818182
+12,Pairwise neighborhoods,Event AUROC,0.975840336134454
+12,Pairwise neighborhoods,Impacted-node localization F1,0.904412620794039
+12,Pairwise neighborhoods,Dependency-asset localization F1,0.753417721518987
+12,Pairwise neighborhoods,Early cascade F1,0.782874617737003
+12,Pairwise neighborhoods,Mid-stage cascade F1,0.879837067209776
+12,Pairwise neighborhoods,Late cascade F1,0.948340404292488
+12,Pairwise neighborhoods,Pump-involving cascade F1,0.905964819468324
+12,Pairwise neighborhoods,EV-only cascade F1,0.892996108949417
+12,Pairwise neighborhoods,Multi-group cascade F1,0.906349393332548
+12,Pairwise neighborhoods,Localization AP,0.936468520171013
+12,Shuffled incidence,Event F1,0.896265560165975
+12,Shuffled incidence,Event AUROC,0.948004201680672
+12,Shuffled incidence,Impacted-node localization F1,0.887267592374676
+12,Shuffled incidence,Dependency-asset localization F1,0.622366288492707
+12,Shuffled incidence,Early cascade F1,0.652459016393443
+12,Shuffled incidence,Mid-stage cascade F1,0.862674238513165
+12,Shuffled incidence,Late cascade F1,0.946686596910812
+12,Shuffled incidence,Pump-involving cascade F1,0.891964525665144
+12,Shuffled incidence,EV-only cascade F1,0.854166666666667
+12,Shuffled incidence,Multi-group cascade F1,0.889974967218977
+12,Shuffled incidence,Localization AP,0.911526430718123
+12,Higher-order incidence,Event F1,1
+12,Higher-order incidence,Event AUROC,1
+12,Higher-order incidence,Impacted-node localization F1,0.933715596330275
+12,Higher-order incidence,Dependency-asset localization F1,0.775270758122744
+12,Higher-order incidence,Early cascade F1,0.875647668393782
+12,Higher-order incidence,Mid-stage cascade F1,0.901788027986525
+12,Higher-order incidence,Late cascade F1,0.974810467106872
+12,Higher-order incidence,Pump-involving cascade F1,0.939035486806187
+12,Higher-order incidence,EV-only cascade F1,0.893865628042843
+12,Higher-order incidence,Multi-group cascade F1,0.936288731577115
+12,Higher-order incidence,Localization AP,0.964087821383072
+13,Pairwise neighborhoods,Event F1,0.930434782608696
+13,Pairwise neighborhoods,Event AUROC,0.964337604015322
+13,Pairwise neighborhoods,Impacted-node localization F1,0.925786469087817
+13,Pairwise neighborhoods,Dependency-asset localization F1,0.778779840848806
+13,Pairwise neighborhoods,Early cascade F1,0.801251956181534
+13,Pairwise neighborhoods,Mid-stage cascade F1,0.893956670467503
+13,Pairwise neighborhoods,Late cascade F1,0.958694338101954
+13,Pairwise neighborhoods,Pump-involving cascade F1,0.933257273245864
+13,Pairwise neighborhoods,EV-only cascade F1,0.882882882882883
+13,Pairwise neighborhoods,Multi-group cascade F1,0.930146148129799
+13,Pairwise neighborhoods,Localization AP,0.94851111876129
+13,Shuffled incidence,Event F1,0.963963963963964
+13,Shuffled incidence,Event AUROC,0.955884295337472
+13,Shuffled incidence,Impacted-node localization F1,0.906435643564356
+13,Shuffled incidence,Dependency-asset localization F1,0.655487804878049
+13,Shuffled incidence,Early cascade F1,0.646302250803859
+13,Shuffled incidence,Mid-stage cascade F1,0.891640866873065
+13,Shuffled incidence,Late cascade F1,0.947476405416496
+13,Shuffled incidence,Pump-involving cascade F1,0.915135608048994
+13,Shuffled incidence,EV-only cascade F1,0.857610474631751
+13,Shuffled incidence,Multi-group cascade F1,0.908999243761028
+13,Shuffled incidence,Localization AP,0.921731832684061
+13,Higher-order incidence,Event F1,1
+13,Higher-order incidence,Event AUROC,1
+13,Higher-order incidence,Impacted-node localization F1,0.936
+13,Higher-order incidence,Dependency-asset localization F1,0.841709722874589
+13,Higher-order incidence,Early cascade F1,0.805633802816901
+13,Higher-order incidence,Mid-stage cascade F1,0.911480479319675
+13,Higher-order incidence,Late cascade F1,0.967494447809408
+13,Higher-order incidence,Pump-involving cascade F1,0.945108077360637
+13,Higher-order incidence,EV-only cascade F1,0.883415435139573
+13,Higher-order incidence,Multi-group cascade F1,0.938579181055747
+13,Higher-order incidence,Localization AP,0.961248223341755
+14,Pairwise neighborhoods,Event F1,0.955752212389381
+14,Pairwise neighborhoods,Event AUROC,0.948446615113282
+14,Pairwise neighborhoods,Impacted-node localization F1,0.920357992522941
+14,Pairwise neighborhoods,Dependency-asset localization F1,0.761283851554664
+14,Pairwise neighborhoods,Early cascade F1,0.844868735083532
+14,Pairwise neighborhoods,Mid-stage cascade F1,0.8715953307393
+14,Pairwise neighborhoods,Late cascade F1,0.955157778187858
+14,Pairwise neighborhoods,Pump-involving cascade F1,0.918790439720058
+14,Pairwise neighborhoods,EV-only cascade F1,0.929824561403509
+14,Pairwise neighborhoods,Multi-group cascade F1,0.922318973418882
+14,Pairwise neighborhoods,Localization AP,0.941506284843891
+14,Shuffled incidence,Event F1,0.951111111111111
+14,Shuffled incidence,Event AUROC,0.956043956043956
+14,Shuffled incidence,Impacted-node localization F1,0.905681818181818
+14,Shuffled incidence,Dependency-asset localization F1,0.690526315789474
+14,Shuffled incidence,Early cascade F1,0.70543615676359
+14,Shuffled incidence,Mid-stage cascade F1,0.857369255150555
+14,Shuffled incidence,Late cascade F1,0.956791248860529
+14,Shuffled incidence,Pump-involving cascade F1,0.91459981230728
+14,Shuffled incidence,EV-only cascade F1,0.856077554064131
+14,Shuffled incidence,Multi-group cascade F1,0.907586206896552
+14,Shuffled incidence,Localization AP,0.928891875295009
+14,Higher-order incidence,Event F1,0.995708154506438
+14,Higher-order incidence,Event AUROC,0.994301994301994
+14,Higher-order incidence,Impacted-node localization F1,0.944935869084476
+14,Higher-order incidence,Dependency-asset localization F1,0.795467422096317
+14,Higher-order incidence,Early cascade F1,0.888888888888889
+14,Higher-order incidence,Mid-stage cascade F1,0.897832817337461
+14,Higher-order incidence,Late cascade F1,0.976323874932225
+14,Higher-order incidence,Pump-involving cascade F1,0.950921035682082
+14,Higher-order incidence,EV-only cascade F1,0.908665105386417
+14,Higher-order incidence,Multi-group cascade F1,0.946909578629708
+14,Higher-order incidence,Localization AP,0.968388971209035
+15,Pairwise neighborhoods,Event F1,0.982758620689655
+15,Pairwise neighborhoods,Event AUROC,0.977036632039366
+15,Pairwise neighborhoods,Impacted-node localization F1,0.877490039840637
+15,Pairwise neighborhoods,Dependency-asset localization F1,0.643137254901961
+15,Pairwise neighborhoods,Early cascade F1,0.757929883138564
+15,Pairwise neighborhoods,Mid-stage cascade F1,0.856287425149701
+15,Pairwise neighborhoods,Late cascade F1,0.933443571723853
+15,Pairwise neighborhoods,Pump-involving cascade F1,0.867816091954023
+15,Pairwise neighborhoods,EV-only cascade F1,0.906666666666667
+15,Pairwise neighborhoods,Multi-group cascade F1,0.881268309495089
+15,Pairwise neighborhoods,Localization AP,0.898201023811276
+15,Shuffled incidence,Event F1,0.923076923076923
+15,Shuffled incidence,Event AUROC,0.963094587206124
+15,Shuffled incidence,Impacted-node localization F1,0.874472915990918
+15,Shuffled incidence,Dependency-asset localization F1,0.587286527514231
+15,Shuffled incidence,Early cascade F1,0.64696223316913
+15,Shuffled incidence,Mid-stage cascade F1,0.88026101141925
+15,Shuffled incidence,Late cascade F1,0.922953451043339
+15,Shuffled incidence,Pump-involving cascade F1,0.880921338548457
+15,Shuffled incidence,EV-only cascade F1,0.855498721227621
+15,Shuffled incidence,Multi-group cascade F1,0.882651335813324
+15,Shuffled incidence,Localization AP,0.875570027582347
+15,Higher-order incidence,Event F1,0.991452991452991
+15,Higher-order incidence,Event AUROC,0.988791689447786
+15,Higher-order incidence,Impacted-node localization F1,0.914718684507496
+15,Higher-order incidence,Dependency-asset localization F1,0.844984802431611
+15,Higher-order incidence,Early cascade F1,0.849315068493151
+15,Higher-order incidence,Mid-stage cascade F1,0.89452867501648
+15,Higher-order incidence,Late cascade F1,0.956210191082803
+15,Higher-order incidence,Pump-involving cascade F1,0.925552456554388
+15,Higher-order incidence,EV-only cascade F1,0.881971465629053
+15,Higher-order incidence,Multi-group cascade F1,0.921145153189352
+15,Higher-order incidence,Localization AP,0.932770750947168
+16,Pairwise neighborhoods,Event F1,0.942222222222222
+16,Pairwise neighborhoods,Event AUROC,0.954648829431438
+16,Pairwise neighborhoods,Impacted-node localization F1,0.930486248114193
+16,Pairwise neighborhoods,Dependency-asset localization F1,0.691215149921094
+16,Pairwise neighborhoods,Early cascade F1,0.835087719298246
+16,Pairwise neighborhoods,Mid-stage cascade F1,0.892186553603876
+16,Pairwise neighborhoods,Late cascade F1,0.968598524762908
+16,Pairwise neighborhoods,Pump-involving cascade F1,0.93491124260355
+16,Pairwise neighborhoods,EV-only cascade F1,0.897233201581028
+16,Pairwise neighborhoods,Multi-group cascade F1,0.933553640977222
+16,Pairwise neighborhoods,Localization AP,0.957298529734278
+16,Shuffled incidence,Event F1,0.891666666666667
+16,Shuffled incidence,Event AUROC,0.937123745819398
+16,Shuffled incidence,Impacted-node localization F1,0.894688007422872
+16,Shuffled incidence,Dependency-asset localization F1,0.719200887902331
+16,Shuffled incidence,Early cascade F1,0.630630630630631
+16,Shuffled incidence,Mid-stage cascade F1,0.851294400963275
+16,Shuffled incidence,Late cascade F1,0.95595363540569
+16,Shuffled incidence,Pump-involving cascade F1,0.914132618888145
+16,Shuffled incidence,EV-only cascade F1,0.769230769230769
+16,Shuffled incidence,Multi-group cascade F1,0.902253855278766
+16,Shuffled incidence,Localization AP,0.930776685912608
+16,Higher-order incidence,Event F1,0.991228070175439
+16,Higher-order incidence,Event AUROC,0.995183946488294
+16,Higher-order incidence,Impacted-node localization F1,0.947683109118087
+16,Higher-order incidence,Dependency-asset localization F1,0.857142857142857
+16,Higher-order incidence,Early cascade F1,0.949843260188088
+16,Higher-order incidence,Mid-stage cascade F1,0.901948842874543
+16,Higher-order incidence,Late cascade F1,0.978848167539267
+16,Higher-order incidence,Pump-involving cascade F1,0.954350370659384
+16,Higher-order incidence,EV-only cascade F1,0.896825396825397
+16,Higher-order incidence,Multi-group cascade F1,0.95067788686302
+16,Higher-order incidence,Localization AP,0.967023349317615
+17,Pairwise neighborhoods,Event F1,0.91063829787234
+17,Pairwise neighborhoods,Event AUROC,0.926682692307692
+17,Pairwise neighborhoods,Impacted-node localization F1,0.874407094246236
+17,Pairwise neighborhoods,Dependency-asset localization F1,0.774042950513539
+17,Pairwise neighborhoods,Early cascade F1,0.705416116248349
+17,Pairwise neighborhoods,Mid-stage cascade F1,0.82343949044586
+17,Pairwise neighborhoods,Late cascade F1,0.939792663476874
+17,Pairwise neighborhoods,Pump-involving cascade F1,0.874526515151515
+17,Pairwise neighborhoods,EV-only cascade F1,0.8736
+17,Pairwise neighborhoods,Multi-group cascade F1,0.876460767946578
+17,Pairwise neighborhoods,Localization AP,0.921726735330048
+17,Shuffled incidence,Event F1,0.902985074626866
+17,Shuffled incidence,Event AUROC,0.921424278846154
+17,Shuffled incidence,Impacted-node localization F1,0.892821435712857
+17,Shuffled incidence,Dependency-asset localization F1,0.66356720202874
+17,Shuffled incidence,Early cascade F1,0.64969696969697
+17,Shuffled incidence,Mid-stage cascade F1,0.868318756073858
+17,Shuffled incidence,Late cascade F1,0.952380952380952
+17,Shuffled incidence,Pump-involving cascade F1,0.900343642611684
+17,Shuffled incidence,EV-only cascade F1,0.841194968553459
+17,Shuffled incidence,Multi-group cascade F1,0.895930350273335
+17,Shuffled incidence,Localization AP,0.924474536191374
+17,Higher-order incidence,Event F1,1
+17,Higher-order incidence,Event AUROC,1
+17,Higher-order incidence,Impacted-node localization F1,0.933912871678356
+17,Higher-order incidence,Dependency-asset localization F1,0.790770844257997
+17,Higher-order incidence,Early cascade F1,0.884090909090909
+17,Higher-order incidence,Mid-stage cascade F1,0.90282131661442
+17,Higher-order incidence,Late cascade F1,0.967817896389325
+17,Higher-order incidence,Pump-involving cascade F1,0.937081659973226
+17,Higher-order incidence,EV-only cascade F1,0.909404659188956
+17,Higher-order incidence,Multi-group cascade F1,0.935007974481659
+17,Higher-order incidence,Localization AP,0.95840247378679
+18,Pairwise neighborhoods,Event F1,0.859504132231405
+18,Pairwise neighborhoods,Event AUROC,0.940590111642743
+18,Pairwise neighborhoods,Impacted-node localization F1,0.89261744966443
+18,Pairwise neighborhoods,Dependency-asset localization F1,0.716962025316456
+18,Pairwise neighborhoods,Early cascade F1,0.740279937791602
+18,Pairwise neighborhoods,Mid-stage cascade F1,0.850340136054422
+18,Pairwise neighborhoods,Late cascade F1,0.936724826571368
+18,Pairwise neighborhoods,Pump-involving cascade F1,0.890016415460379
+18,Pairwise neighborhoods,EV-only cascade F1,0.905576208178439
+18,Pairwise neighborhoods,Multi-group cascade F1,0.89419795221843
+18,Pairwise neighborhoods,Localization AP,0.921803528374219
+18,Shuffled incidence,Event F1,0.909090909090909
+18,Shuffled incidence,Event AUROC,0.934343434343434
+18,Shuffled incidence,Impacted-node localization F1,0.872961698900266
+18,Shuffled incidence,Dependency-asset localization F1,0.697822623473181
+18,Shuffled incidence,Early cascade F1,0.658925979680697
+18,Shuffled incidence,Mid-stage cascade F1,0.789081885856079
+18,Shuffled incidence,Late cascade F1,0.945878434637802
+18,Shuffled incidence,Pump-involving cascade F1,0.869698361659776
+18,Shuffled incidence,EV-only cascade F1,0.888405797101449
+18,Shuffled incidence,Multi-group cascade F1,0.876595744680851
+18,Shuffled incidence,Localization AP,0.918957977411532
+18,Higher-order incidence,Event F1,0.977578475336323
+18,Higher-order incidence,Event AUROC,0.992025518341308
+18,Higher-order incidence,Impacted-node localization F1,0.925383707201889
+18,Higher-order incidence,Dependency-asset localization F1,0.769468798349665
+18,Higher-order incidence,Early cascade F1,0.876901798063624
+18,Higher-order incidence,Mid-stage cascade F1,0.888888888888889
+18,Higher-order incidence,Late cascade F1,0.953112368633791
+18,Higher-order incidence,Pump-involving cascade F1,0.939687055476529
+18,Higher-order incidence,EV-only cascade F1,0.855555555555556
+18,Higher-order incidence,Multi-group cascade F1,0.931213106854596
+18,Higher-order incidence,Localization AP,0.952071209450491
+19,Pairwise neighborhoods,Event F1,0.951612903225806
+19,Pairwise neighborhoods,Event AUROC,0.928307692307692
+19,Pairwise neighborhoods,Impacted-node localization F1,0.904109589041096
+19,Pairwise neighborhoods,Dependency-asset localization F1,0.72071181413742
+19,Pairwise neighborhoods,Early cascade F1,0.75975975975976
+19,Pairwise neighborhoods,Mid-stage cascade F1,0.871355060034305
+19,Pairwise neighborhoods,Late cascade F1,0.9541005003263
+19,Pairwise neighborhoods,Pump-involving cascade F1,0.904143475572047
+19,Pairwise neighborhoods,EV-only cascade F1,0.903891977760127
+19,Pairwise neighborhoods,Multi-group cascade F1,0.906402869877161
+19,Pairwise neighborhoods,Localization AP,0.937931194436397
+19,Shuffled incidence,Event F1,0.876595744680851
+19,Shuffled incidence,Event AUROC,0.886923076923077
+19,Shuffled incidence,Impacted-node localization F1,0.874179552786739
+19,Shuffled incidence,Dependency-asset localization F1,0.664832645575424
+19,Shuffled incidence,Early cascade F1,0.589614740368509
+19,Shuffled incidence,Mid-stage cascade F1,0.840647857889237
+19,Shuffled incidence,Late cascade F1,0.939526730937774
+19,Shuffled incidence,Pump-involving cascade F1,0.871589292641924
+19,Shuffled incidence,EV-only cascade F1,0.890127388535032
+19,Shuffled incidence,Multi-group cascade F1,0.875777099581779
+19,Shuffled incidence,Localization AP,0.903916416492182
+19,Higher-order incidence,Event F1,1
+19,Higher-order incidence,Event AUROC,1
+19,Higher-order incidence,Impacted-node localization F1,0.921201753448092
+19,Higher-order incidence,Dependency-asset localization F1,0.81672689726381
+19,Higher-order incidence,Early cascade F1,0.862199747155499
+19,Higher-order incidence,Mid-stage cascade F1,0.874744376278119
+19,Higher-order incidence,Late cascade F1,0.970322580645161
+19,Higher-order incidence,Pump-involving cascade F1,0.922774225282833
+19,Higher-order incidence,EV-only cascade F1,0.910728910728911
+19,Higher-order incidence,Multi-group cascade F1,0.923193751356042
+19,Higher-order incidence,Localization AP,0.956727682143191
+20,Pairwise neighborhoods,Event F1,0.971428571428571
+20,Pairwise neighborhoods,Event AUROC,0.976382488479263
+20,Pairwise neighborhoods,Impacted-node localization F1,0.882861257801248
+20,Pairwise neighborhoods,Dependency-asset localization F1,0.724703737465816
+20,Pairwise neighborhoods,Early cascade F1,0.843205574912892
+20,Pairwise neighborhoods,Mid-stage cascade F1,0.840296495956873
+20,Pairwise neighborhoods,Late cascade F1,0.91849877859205
+20,Pairwise neighborhoods,Pump-involving cascade F1,0.902761104441777
+20,Pairwise neighborhoods,EV-only cascade F1,0.803357314148681
+20,Pairwise neighborhoods,Multi-group cascade F1,0.888861629048086
+20,Pairwise neighborhoods,Localization AP,0.92326600858033
+20,Shuffled incidence,Event F1,0.919148936170213
+20,Shuffled incidence,Event AUROC,0.951756912442396
+20,Shuffled incidence,Impacted-node localization F1,0.88897122391009
+20,Shuffled incidence,Dependency-asset localization F1,0.673385249656436
+20,Shuffled incidence,Early cascade F1,0.688095238095238
+20,Shuffled incidence,Mid-stage cascade F1,0.869565217391304
+20,Shuffled incidence,Late cascade F1,0.939841089670829
+20,Shuffled incidence,Pump-involving cascade F1,0.897065531397294
+20,Shuffled incidence,EV-only cascade F1,0.853947368421053
+20,Shuffled incidence,Multi-group cascade F1,0.891572327044025
+20,Shuffled incidence,Localization AP,0.909359160057618
+20,Higher-order incidence,Event F1,0.992
+20,Higher-order incidence,Event AUROC,1
+20,Higher-order incidence,Impacted-node localization F1,0.910352941176471
+20,Higher-order incidence,Dependency-asset localization F1,0.793960923623446
+20,Higher-order incidence,Early cascade F1,0.890074706510139
+20,Higher-order incidence,Mid-stage cascade F1,0.87378640776699
+20,Higher-order incidence,Late cascade F1,0.938374125874126
+20,Higher-order incidence,Pump-involving cascade F1,0.931024447031432
+20,Higher-order incidence,EV-only cascade F1,0.823095823095823
+20,Higher-order incidence,Multi-group cascade F1,0.915506481036966
+20,Higher-order incidence,Localization AP,0.945862228573093

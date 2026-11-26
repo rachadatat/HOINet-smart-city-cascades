@@ -1,0 +1,5 @@
+Pattern,MeanAbsolutePressureChangePsi,MaximumAbsolutePressureChangePsi,MeanNodesAtOrAboveOnePsi
+Normal,0,0,0
+Pump 1 failed,2.20516760882848,42.5892701148987,50.875
+Pump 2 failed,12.9990482590581,84.5212059020996,94.75
+Both pumps failed,16.3474599961895,84.5212059020996,94.75
