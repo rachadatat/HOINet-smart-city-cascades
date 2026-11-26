@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this research supplement, please cite this release."
+title: "HOINet: Reproducibility supplement for smart city cascading failure detection and localization"
+version: "1.0.0"
+authors:
+  - family-names: Atat
+    given-names: Rachad
+  - family-names: Takiddin
+    given-names: Abdulrahman
+  - family-names: Ismail
+    given-names: Muhammad
+  - family-names: Serpedin
+    given-names: Erchin
