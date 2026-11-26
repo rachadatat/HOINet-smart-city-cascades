@@ -10,3 +10,6 @@ EV data source: City of Boulder Electric Vehicle Charging Station Data, https://
 The original four pressure trajectories use closure commands with Net3 controls active. In enforced_check the failed pumps' own conflicting controls are removed and every solve is checked for closure. hydraulic_audit/codes.csv columns are condition (1 normal, 2 pump 10, 3 pump 335, 4 both), elapsed seconds, and hydraulic solve return code. status.csv contains 24 hourly rows and four condition columns for each of the two pumps.
 signed_rank_all.csv is Supplementary Table S1. main.csv and seedmatch.csv each cover 20 runs. holdline.csv covers 26 folds. The other intervention CSVs contain five runs each, with 1 psi and original settings taken from the first five main runs. K1, K5 and K10 are separately validation-thresholded event F1 scores. Layer F1 is calculated over cascade records in that layer. For folds without positive assets in a layer the implementation returns zero, so use overall F1 when interpreting the line holdout.
 No DOI has been assigned to this archive.
+
+License
+The authors’ original MATLAB and Python code is licensed under the MIT License. See the LICENSE file for details. The City of Boulder EV charging data are provided under CC0 1.0. Other third-party materials retain their original terms.
